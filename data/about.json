@@ -1,0 +1,34 @@
+{
+ "region": "서울 노원구",
+ "nameEn": "Korean Bible University",
+ "added": "2026-11-01T02:27",
+ "rank": 318,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "INDUK",
+   "campus": "인덕대학교",
+   "km": 2.1
+  },
+  {
+   "code": "SEOULTECH",
+   "campus": "서울과학기술대학교",
+   "km": 2.2
+  },
+  {
+   "code": "KW",
+   "campus": "광운대학교",
+   "km": 3.3
+  },
+  {
+   "code": "SWU",
+   "campus": "서울여자대학교",
+   "km": 3.3
+  },
+  {
+   "code": "SYU",
+   "campus": "삼육대학교",
+   "km": 3.7
+  }
+ ]
+}
